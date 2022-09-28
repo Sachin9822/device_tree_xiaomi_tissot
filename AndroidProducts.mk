@@ -16,7 +16,4 @@
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/evolution_tissot.mk
 
-# COMMON_LUNCH_CHOICES := \
-#     nad_tissot-user \
-#     nad_tissot-userdebug \
-#     nad_tissot-eng
+
