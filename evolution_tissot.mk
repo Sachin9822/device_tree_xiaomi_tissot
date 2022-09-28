@@ -41,19 +41,4 @@ PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
 
 TARGET_SUPPORTS_QUICK_TAP := true
 
-# PRODUCT_BUILD_PROP_OVERRIDES += \
-    PRIVATE_BUILD_DESC="tissot-user 8.0.0 OPR1.170623.026 8.1.10 release-keys"
 
-# Set BUILD_FINGERPRINT variable to be picked up by both system and vendor build.prop
-# BUILD_FINGERPRINT := "xiaomi/tissot/tissot_sprout:8.0.0/OPR1.170623.026/8.1.10:user/release-keys"
-
-# NusantaraOS Stuffs
-# NAD_BUILD_TYPE := OFFICIAL
-# USE_GAPPS := true
-# USE_AOSP_CLOCK := true
-# TARGET_GAPPS_ARCH := arm64
-# TARGET_BOOT_ANIMATION_RES := 1080
-# TARGET_INCLUDE_STOCK_ARCORE := false
-# TARGET_INCLUDE_LIVE_WALLPAPERS := false
-# TARGET_SUPPORTS_GOOGLE_RECORDER := false
-# TARGET_SUPPORTS_QUICK_TAP := true
